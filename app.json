@@ -13,16 +13,16 @@
     "env": {
         "SESSION_ID": {
             "description": "Session ID obtained after scanning QR code",
-            "required": false
+            "required": true
         },
         "OWNER_NUMBER": {
-            "description": "Your WhatsApp number (e.g., 911234567890)",
-            "required": false
+            "description": "Your WhatsApp number (e.g., 256726212154)"256726212154",
+            "required": true
         },
         "PREFIX": {
             "description": "Prefix for bot commands",
-            "value": ".",
-            "required": false
+            "value": "
+            "required": true
         }
     },
     "formation": {
