@@ -16,12 +16,12 @@
             "required": true
         },
         "OWNER_NUMBER": {
-            "description": "Your WhatsApp number (e.g., 256726212154)"256726212154",
+            "description": "256726212154"256726212154",
             "required": true
         },
         "PREFIX": {
             "description": "Prefix for bot commands",
-            "value": "
+            "value": "."
             "required": true
         }
     },
